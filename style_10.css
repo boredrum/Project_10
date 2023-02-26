@@ -3,16 +3,16 @@
     font-style: normal;
     font-weight: 100;
     src:
-            url(./FONTS/Muller\ Regular/MullerRegular.woff2) format(woff2),
-            url(./FONTS/Muller\ Regular/MullerRegular.woff) format(woff);
+            url(FONTS/Muller Regular/MullerRegular.woff2) format(woff2),
+            url(FONTS/Muller Regular/MullerRegular.woff) format(woff);
 }
 @font-face {
     font-family: 'Muller Bold';
     font-style: bold;
     font-weight: 800;
     src: 
-            url(./FONTS/Muller\ Bold/MullerBold.woff2) format(woff2),
-            url(./FONTS/Muller\ Bold/MullerBold.woff) format(woff);
+            url(FONTS/Muller Bold/MullerBold.woff2) format(woff2),
+            url(FONTS/Muller Bold/MullerBold.woff) format(woff);
 }
 *{
     margin: 0;
