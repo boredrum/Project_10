@@ -181,19 +181,23 @@ header a{
     font-size: 16px;
 }
 .cards{
-    margin: 50px 300px;
+    margin: 50px auto;
+    max-width: 1200px;
     width: auto;
     height: auto;
     background-color: rgb(154, 203, 221);
     border-radius: 1%;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 .cards__blockS{
+    height: 400px;
     width: 350px;
     margin: 20px 25px;
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
 }
 .cards__block{
     width: 350px;
